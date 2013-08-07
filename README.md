@@ -16,3 +16,8 @@ For the SL4A (Scripting Language for Android) app.
 * bus arrival information is presented through the SL4A browser
 
 ###Insert WMATA Disclaimer here
+
+GPL
+=========
+This code is released as GPL3 and is ![copyright](http://git.mpsclient.info/copyright.png) 2013 by Modular Programming Systems Inc.
+
